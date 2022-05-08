@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Azure, React, Kotlin, Flutter**
 
-- 👯 I’m looking to collaborate on [PagoPa](https://github.com/pagopa)
+- 👯 I’m looking to collaborate on [PagoPa](https://github.com/pagopa) [loowcoode](https://github.com/loowcode)
 
 - 👨‍💻 All of my projects are available on **Github**
 
